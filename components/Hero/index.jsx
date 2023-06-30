@@ -44,7 +44,7 @@ const Hero = () => {
           </div>
           <div className="hidden lg:block  relative w-[400px] h-[400px] mx-auto">
             <Image
-              src="/images/test.jpg"
+              src="/images/profile.jpg"
               alt="Your Name"
               layout="fill"
               objectFit="cover"

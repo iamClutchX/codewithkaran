@@ -30,9 +30,9 @@ const ContactPage = () => {
   </div>
   
     <ContactItem href="https://github.com/iamclutchx" Icon={FaGithub} label="GitHub" />
-    <ContactItem href="https://www.codechef.com/users/yourusername" Icon={SiCodechef} label="CodeChef" />
-    <ContactItem href="https://www.hackerrank.com/yourusername" Icon={FaHackerrank} label="HackerRank" />
-    <ContactItem href="https://leetcode.com/yourusername" Icon={SiLeetcode} label="LeetCode" />
+    <ContactItem href="https://www.codechef.com/users/iamclutchxx" Icon={SiCodechef} label="CodeChef" />
+    <ContactItem href="https://www.hackerrank.com/iamr_karan1?hr_r=1" Icon={FaHackerrank} label="HackerRank" />
+    <ContactItem href="https://leetcode.com/iamclutchx" Icon={SiLeetcode} label="LeetCode" />
  
 </div>
 

@@ -38,13 +38,9 @@ const ViewblogDetails = ({ params }) => {
  
             <p className="font-semibold text-lg">Author:</p>
             <div className="flex items-center mt-2">
-              <Image
-                src={blog.author.image}
-                alt={blog.author.name}
-                width={50}
-                height={50}
-                className="rounded-full"
-              />
+            <div className="relative h-10 w-10 overflow-hidden rounded-full">
+                  <Image src={blog.author.image} alt="author" layout="fill" />
+                </div>
               <div className="ml-4">
                 <p className="font-medium text-gray-800">{blog.author.name}</p>
                 <p className="text-sm text-gray-500">

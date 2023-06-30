@@ -50,7 +50,7 @@ const Header = () => {
           <div className="ml-4 relative w-[50px] h-[50px] ">
         <Link href="/">
           <Image
-            src="/images/test.jpg"
+            src="/images/profile.jpg"
             alt="Your Name"
             layout="fill" 
             objectFit="cover" 

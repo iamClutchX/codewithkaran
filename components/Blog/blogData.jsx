@@ -52,7 +52,7 @@ const blogData = [
     image: "/images/test.jpg",
     author: {
       name: "Ram Karan",
-      image: "/images/test.jpg",
+      image: "/images/profile.jpg",
       designation: "MERN Stack Developer",
     },
     tags: ["React", "JavaScript", "Web Development"],
@@ -122,7 +122,7 @@ const blogData = [
     image: "/images/test.jpg",
     author: {
       name: "Ram Karan",
-      image: "/images/test.jpg",
+      image: "/images/profile.jpg",
       designation: "MERN Stack Developer",
     },
     tags: ["React", "Hooks", "Web Development"],
@@ -170,7 +170,7 @@ const blogData = [
     image: "/images/test.jpg",
     author: {
       name: "Ram Karan",
-      image: "/images/test.jpg",
+      image: "/images/profile.jpg",
       designation: "MERN Stack Developer",
     },
     tags: [
@@ -240,7 +240,7 @@ const blogData = [
     image: "/images/test.jpg",
     author: {
       name: "Ram Karan",
-      image: "/images/test.jpg",
+      image: "/images/profile.jpg",
       designation: "MERN Stack Developer",
     },
     tags: ["TypeScript", "JavaScript", "Web Development"],
