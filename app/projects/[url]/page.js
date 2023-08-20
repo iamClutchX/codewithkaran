@@ -1,4 +1,5 @@
 "use client";
+import Error from "@/app/error";
 import ProjectDetailTemplate from "@/components/ProjectDetailTemplate/ProjectDetailTemplate";
 import projectsData from "@/components/Projects/ProjectData";
 import { useParams } from "next/navigation";
@@ -12,7 +13,9 @@ const ProjectPage = () => {
       {selectedProject ? (
         <ProjectDetailTemplate project={selectedProject} />
       ) : (
-        <p>Project not found</p>
+        <>
+        <Error statusCode={404} />
+        </>
       )}
     </div>
   );
