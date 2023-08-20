@@ -74,7 +74,7 @@ const projectsData = [
       "Created a responsive and intuitive frontend using React, Redux, and Material-UI.",
       "Integrated payment gateways for secure and efficient transactions.",
     ],
-    technologies: ["React", "Redux", "Node.js", "Express", "MongoDB", "Material-UI"],
+    technologies: ["React", "Redux", "Node.js", "Express", "MongoDB", "REST API"],
     projectDetails: "/projects/ecommerce-platform",
     projectLink: "https://my-ecommerce-site-sage.vercel.app/",
     projectSourceLink: "https://github.com/iamrkaran/my-ecommerce-site",
