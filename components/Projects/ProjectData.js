@@ -2,6 +2,7 @@ const projectsData = [
   {
     id: 1,
     name: "Nextlense (Social Media App)",
+    url: "nextlense",
     image: "/images/nextlense.jpg",
     duration: {
       start: "Jun 2023",
@@ -23,6 +24,7 @@ const projectsData = [
     id: 2,
     name: "Library Management System",
     image: "/images/library.jpeg",
+    url: "library-management-system",
     duration: {
       start: "Mar 2023",
       end: "May 2023",
@@ -35,7 +37,7 @@ const projectsData = [
       "Utilized MySQL and Node.js for efficient data management.",
     ],
     technologies: ["React", "Bootstrap", "MySQL", "Node.js", "REST API"],
-    projectDetails: "/projects/library-management",
+    projectDetails: "/projects/library-management-system",
     projectLink: "https://library-management-system-39ol.vercel.app/",
     projectSourceLink: "https://github.com/iamrkaran/Library-Management-System",
   },
@@ -43,6 +45,7 @@ const projectsData = [
     id: 3,
     name: "YouTube Clone",
     image: "/images/youtube.jpeg",
+    url: "youtube-clone",
     duration: {
       start: "Jan 2023",
       end: "Feb 2023",
@@ -63,6 +66,7 @@ const projectsData = [
     id: 4,
     name: "E-Commerce Platform",
     image: "/images/ecommerce.jpeg",
+    url: "ecommerce-platform",
     duration: {
       start: "Sep 2023",
       end: "Oct 2023",
@@ -74,7 +78,7 @@ const projectsData = [
       "Created a responsive and intuitive frontend using React, Redux, and Material-UI.",
       "Integrated payment gateways for secure and efficient transactions.",
     ],
-    technologies: ["React", "Redux", "Node.js", "Express", "MongoDB", "REST API"],
+    technologies: ["React", "Redux", "Node.js", "Express", "MongoDB", "Material-UI"],
     projectDetails: "/projects/ecommerce-platform",
     projectLink: "https://my-ecommerce-site-sage.vercel.app/",
     projectSourceLink: "https://github.com/iamrkaran/my-ecommerce-site",
