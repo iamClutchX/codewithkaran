@@ -29,7 +29,7 @@ const ContactPage = () => {
     <ContactItem href="mailto:iamr.karan@gmail.com" Icon={AiOutlineMail} label="Email" />
   </div>
   
-    <ContactItem href="https://github.com/iamclutchx" Icon={FaGithub} label="GitHub" />
+    <ContactItem href="https://github.com/iamrkaran" Icon={FaGithub} label="GitHub" />
     <ContactItem href="https://www.codechef.com/users/iamclutchxx" Icon={SiCodechef} label="CodeChef" />
     <ContactItem href="https://www.hackerrank.com/iamr_karan1?hr_r=1" Icon={FaHackerrank} label="HackerRank" />
     <ContactItem href="https://leetcode.com/iamclutchx" Icon={SiLeetcode} label="LeetCode" />
