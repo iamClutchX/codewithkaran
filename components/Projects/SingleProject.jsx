@@ -71,8 +71,6 @@ const SingleProject = ({ project }) => {
         <div className="flex flex-col md:flex-row md:justify-between mt-4 pt-4 space-y-4 md:space-y-0 md:space-x-4">
           <a
             href={project.projectDetails}
-            target="_blank"
-            rel="noopener noreferrer"
             className="flex-1 text-center text-blue-500 hover:text-dark
              dark:text-blue-400 dark:hover:text-blue-300 rounded-full border-2 border-blue-500 hover:border-primary dark:border-blue-400 dark:hover:border-blue-300 px-4 py-2"
           >
