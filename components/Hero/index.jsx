@@ -46,8 +46,8 @@ const Hero = () => {
             <Image
               src="/images/profile.jpg"
               alt="Your Name"
-              layout="fill"
-              objectFit="cover"
+              width={400}
+              height={400}
               className="rounded-full absolute inset-0"
             />
           </div>

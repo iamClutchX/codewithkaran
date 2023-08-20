@@ -52,8 +52,8 @@ const Header = () => {
           <Image
             src="/images/profile.jpg"
             alt="Your Name"
-            layout="fill" 
-            objectFit="cover" 
+            width={50}
+            height={50}
             className="rounded-full absolute inset-0" 
           />
         </Link>
